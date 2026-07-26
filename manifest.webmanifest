@@ -1,0 +1,14 @@
+{
+  "name": "Aevum Core — The Living Memory Space",
+  "short_name": "Aevum Core",
+  "description": "Un universo emotivo vivo e navigabile.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#05060b",
+  "theme_color": "#05060b",
+  "orientation": "any",
+  "icons": [
+    {"src":"./assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
