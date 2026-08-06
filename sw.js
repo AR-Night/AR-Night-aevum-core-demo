@@ -1,4 +1,4 @@
-const CACHE='aevum-core-public-v0.7-showcase';
+const CACHE='aevum-core-public-v0.7.1-dense-orbit';
 const ASSETS=[
   './',
   './index.html',
