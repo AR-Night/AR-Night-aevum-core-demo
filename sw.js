@@ -1,4 +1,4 @@
-const CACHE='aevum-core-public-v0.7.2-creator-profile';
+const CACHE='aevum-core-public-v0.7.3-visible-creator';
 const ASSETS=[
   './',
   './index.html',
