@@ -1,4 +1,4 @@
-const CACHE='aevum-core-public-v0.7.1-dense-orbit';
+const CACHE='aevum-core-public-v0.7.2-creator-profile';
 const ASSETS=[
   './',
   './index.html',
@@ -8,6 +8,7 @@ const ASSETS=[
   './app-demo.js',
   './showcase.css',
   './showcase.js',
+  './author-profile.js',
   './guide.html',
   './iphone-preview.html',
   './manifest.webmanifest',
