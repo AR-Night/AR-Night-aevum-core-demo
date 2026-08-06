@@ -5,37 +5,48 @@
 
 *A Sea Eris Project*
 
-Repository pubblico usato esclusivamente per testare Aevum Core su Safari e iPhone. Il progetto completo, la documentazione interna e la cronologia di sviluppo restano nel repository privato `AR-Night/aevum-core`.
+Repository pubblico usato esclusivamente per testare Aevum Core su Safari, iPhone e TV. Il progetto completo e la storia personale restano nel repository privato `AR-Night/aevum-core`.
 
-## Genesis Demo 0.6 — Roots, Branches & Deep Space
+## Genesis Demo 0.7 — Showcase
 
 La demo include:
 
-- percorso guidato **Pianta una traccia**;
+- storia guidata automatica in 9 passaggi;
+- controlli Play, Pausa, Avanti, Indietro e Ricomincia;
+- modalità TV per AirPlay, HDMI e schermi orizzontali;
+- Costellazioni Famiglia, Lavoro, Sport, Pressioni e Futuro;
+- passaggio automatico tra Orbita, Timeline e Deep Space;
 - Radici e Rami direzionali;
-- ricerca di parole, persone e tag;
-- animazione dei risultati diretti e dei nodi collegati;
+- ricerca relazionale;
 - date e dimensioni Piccolo, Medio e Grande;
-- timeline annuale;
-- modalità Orbita;
-- modalità Deep Space con profondità e rotazione touch;
-- archivio, filtri e ordinamento;
-- importazione ed esportazione JSON;
-- salvataggio locale nel browser;
+- archivio, filtri, import/export JSON e salvataggio locale;
 - Preview iPhone HTML/CSS-only.
+
+## Dati della demo pubblica
+
+La storia è volutamente anonima. Utilizza termini generici come:
+
+- `mio figlio`;
+- `sport di squadra`;
+- `lavoro in città`;
+- `traffico quotidiano`;
+- `riconoscimento economico`;
+- `tensione di coppia`.
+
+Non contiene il nome Enea, Milano, pallanuoto, nomi familiari o dati aziendali reali.
 
 ## Prova guidata
 
 1. Apri la demo.
 2. Premi **Vivi la storia demo**.
-3. Cerca `Enea`.
-4. Premi **Deep** per entrare nello spazio tridimensionale.
-5. Trascina la rete, usa la timeline e apri una traccia.
-6. Osserva Radici e Rami nella scheda del nodo.
+3. La presentazione parte automaticamente.
+4. Usa Play/Pausa oppure le frecce.
+5. Premi `TV` prima della duplicazione AirPlay o del collegamento HDMI.
+6. Al termine, esplora liberamente Costellazioni, Orbita e Deep Space.
 
 ## Privacy
 
-La pagina è pubblica. Le tracce create non vengono salvate nel repository e non vengono inviate a server: restano nel `localStorage` del browser usato.
+La pagina è pubblica. Le tracce create non vengono salvate nel repository e non vengono inviate a server: restano nel `localStorage` del browser.
 
 Non inserire dati personali, sanitari, aziendali o riservati nella build demo.
 
