@@ -5,26 +5,27 @@
 
 *A Sea Eris Project*
 
-Repository pubblico usato esclusivamente per testare Aevum Core su Safari, iPhone e TV. Il progetto completo e la storia personale restano nel repository privato `AR-Night/aevum-core`.
+Repository pubblico usato esclusivamente per testare Aevum Core su Safari, iPhone e TV. Il progetto completo, la storia personale e la documentazione di sviluppo restano nel repository privato `AR-Night/aevum-core`.
 
-## Genesis Demo 0.7 — Showcase
+## Genesis Demo 0.7.1 — Dense Showcase
 
-La demo include:
+La storia dimostrativa pubblica comprende:
 
+- **34 tracce anonime** distribuite su orbite più ampie;
+- **50 connessioni** tra famiglia, lavoro, sport, pressioni, equilibrio e futuro;
+- trascinamento esteso della rete in modalità Orbita;
+- Deep Space con profondità e rotazione touch;
 - storia guidata automatica in 9 passaggi;
 - controlli Play, Pausa, Avanti, Indietro e Ricomincia;
 - modalità TV per AirPlay, HDMI e schermi orizzontali;
 - Costellazioni Famiglia, Lavoro, Sport, Pressioni e Futuro;
-- passaggio automatico tra Orbita, Timeline e Deep Space;
 - Radici e Rami direzionali;
-- ricerca relazionale;
-- date e dimensioni Piccolo, Medio e Grande;
-- archivio, filtri, import/export JSON e salvataggio locale;
-- Preview iPhone HTML/CSS-only.
+- ricerca relazionale, timeline, archivio e import/export JSON;
+- Preview iPhone HTML/CSS-only con orbita animata.
 
 ## Dati della demo pubblica
 
-La storia è volutamente anonima. Utilizza termini generici come:
+La storia usa esclusivamente termini generici come:
 
 - `mio figlio`;
 - `sport di squadra`;
@@ -33,20 +34,17 @@ La storia è volutamente anonima. Utilizza termini generici come:
 - `riconoscimento economico`;
 - `tensione di coppia`.
 
-Non contiene il nome Enea, Milano, pallanuoto, nomi familiari o dati aziendali reali.
+Non contiene nomi familiari, città reali, squadre, società o dati aziendali identificativi.
 
-## Prova guidata
+## Disclaimer
 
-1. Apri la demo.
-2. Premi **Vivi la storia demo**.
-3. La presentazione parte automaticamente.
-4. Usa Play/Pausa oppure le frecce.
-5. Premi `TV` prima della duplicazione AirPlay o del collegamento HDMI.
-6. Al termine, esplora liberamente Costellazioni, Orbita e Deep Space.
+Questa pagina è una messa in prova visiva pubblica di un progetto sviluppato e conservato in repository privata. La pubblicazione non concede alcuna licenza sui contenuti, sull’interfaccia, sulla struttura narrativa o sugli elementi grafici.
+
+È vietata la riproduzione, ridistribuzione, modifica, pubblicazione, commercializzazione o creazione di opere derivate senza autorizzazione scritta.
 
 ## Privacy
 
-La pagina è pubblica. Le tracce create non vengono salvate nel repository e non vengono inviate a server: restano nel `localStorage` del browser.
+Le tracce create nella demo non vengono salvate nel repository e non vengono inviate a server: restano nel `localStorage` del browser.
 
 Non inserire dati personali, sanitari, aziendali o riservati nella build demo.
 
@@ -55,10 +53,6 @@ Non inserire dati personali, sanitari, aziendali o riservati nella build demo.
 Copyright © 2026 Andrea R. / Sea Eris
 
 All rights reserved.
-
-This repository is provided solely for demonstration and evaluation.
-
-No permission is granted to reproduce, redistribute, modify, publish, commercialize or create derivative works from its contents.
 
 ## GitHub Pages
 
