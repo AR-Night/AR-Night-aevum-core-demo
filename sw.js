@@ -1,4 +1,4 @@
-const CACHE='aevum-core-public-v0.6-split';
+const CACHE='aevum-core-public-v0.7-showcase';
 const ASSETS=[
   './',
   './index.html',
@@ -6,6 +6,8 @@ const ASSETS=[
   './app-core.js',
   './app-ui.js',
   './app-demo.js',
+  './showcase.css',
+  './showcase.js',
   './guide.html',
   './iphone-preview.html',
   './manifest.webmanifest',
