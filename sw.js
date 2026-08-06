@@ -1,4 +1,4 @@
-const CACHE='aevum-core-public-v0.7.3-visible-creator';
+const CACHE='aevum-core-public-v0.7.4-iphone-scroll';
 const ASSETS=[
   './',
   './index.html',
